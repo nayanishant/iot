@@ -13,7 +13,7 @@ class Feature extends Component {
                                 <div className="card1">
                                     <h3>{e.topic}</h3>
                                     <p>
-                                        
+                                        {e.content}
                                     </p>
                                 </div>
                                 <div className="card1one">

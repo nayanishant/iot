@@ -22,9 +22,6 @@ class Contact extends Component {
                       <a href={persons.github}  target="_blank" rel="noopener noreferrer">
                         <i class="fab fa-github"></i>
                       </a>
-                      <a href={persons.email}  target="_blank" rel="noopener noreferrer">
-                        <i class="fas fa-envelope-open"></i>
-                      </a>
                     </div>
                   </div>
                 </div>
